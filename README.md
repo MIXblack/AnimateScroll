@@ -1,4 +1,4 @@
- ## nTune
+ ## AnimateScroll
 * It is one page Animated Website design.
 * It's also Responsive design.
 * AnimateScroll is a clean Bootstrap theme that implements animation using ScrollReveal.
